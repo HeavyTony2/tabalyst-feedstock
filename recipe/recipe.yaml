@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "0.7.3"
+  version: "0.7.4"
 
 package:
   name: tabalyst
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/t/tabalyst/tabalyst-${{ version }}.tar.gz
-  sha256: 8b66a07f38a86a0aeb8383c7fd4dd4b9b1c72f6e6d6c9583dfd70152cc074d2a
+  sha256: 408fc2fff75cab6d03e0316dffa97611baf43c444a16abc505109d302f8afd90
 
 build:
   number: 0
@@ -52,6 +52,7 @@ about:
   homepage: https://tabalyst.com/
   repository: https://github.com/loribel-labs/tabalyst
   documentation: https://docs.tabalyst.com/
+  description: Tabalyst helps you understand CSV, Excel, JSON and JSONL datasets with minimal configuration. Detect missing values, duplicates, mixed types, data formats and quality issues. Generate interactive HTML reports and structured JSON profiles, entirely on your computer.
 
 extra:
   recipe-maintainers:
