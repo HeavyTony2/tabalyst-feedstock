@@ -13,6 +13,8 @@ Development: https://github.com/loribel-labs/tabalyst
 
 Documentation: https://docs.tabalyst.com/
 
+Tabalyst helps you understand CSV, Excel, JSON and JSONL datasets with minimal configuration. Detect missing values, duplicates, mixed types, data formats and quality issues. Generate interactive HTML reports and structured JSON profiles, entirely on your computer.
+
 Current build status
 ====================
 
